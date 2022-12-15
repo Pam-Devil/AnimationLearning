@@ -18,10 +18,16 @@ _global_script_classes=[ {
 "class": "Player_Animations",
 "language": "GDScript",
 "path": "res://Animator.gd"
+}, {
+"base": "Reference",
+"class": "Queue",
+"language": "GDScript",
+"path": "res://Queue.gd"
 } ]
 _global_script_class_icons={
 "Player": "",
-"Player_Animations": ""
+"Player_Animations": "",
+"Queue": ""
 }
 
 [application]
